@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kormee_API_Recuritment.props" />
+</Project>
